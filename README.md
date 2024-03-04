@@ -33,7 +33,7 @@ And much more features.
 ### START (LARAVEL WEB SITE) LOCAL DEV [LIVEWIRE E-COMMERCE PLATFORM]
 
     composer update && composer dump-autoload
-    npm install --force && npn run dev
+    npm install --force && npm run dev
     php artisan storage:link
     php artisan key:generate && php artisan serve
 
